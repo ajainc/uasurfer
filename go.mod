@@ -1,3 +1,3 @@
-module github.com/avct/uasurfer
+module github.com/LumenResearch/uasurfer
 
 go 1.19
